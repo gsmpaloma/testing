@@ -5,5 +5,5 @@ run:
 	./out
 
 clean:
-	rm mytest
+	rm out
 
